@@ -11,6 +11,8 @@ module.exports = {
       Main: 'app/components/main.jsx',
       Nav: 'app/components/nav.jsx',
       GoogleMap: 'app/components/googleMap.jsx',
+      About: 'app/components/about.jsx',
+      Example: 'app/components/example.jsx'
     },
     extensions: ['', '.js', '.jsx']
   },
