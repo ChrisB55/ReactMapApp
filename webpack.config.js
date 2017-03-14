@@ -12,7 +12,7 @@ module.exports = {
       Nav: 'app/components/nav.jsx',
       GoogleMap: 'app/components/googleMap.jsx',
       About: 'app/components/about.jsx',
-      Example: 'app/components/example.jsx'
+      BjjExplainer: 'app/components/bjjExplainer.jsx'
     },
     extensions: ['', '.js', '.jsx']
   },
